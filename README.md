@@ -1,2 +1,2 @@
-# Numerical Methods for Computer Science, AY 2023/24
+# Numerical Methods for Computer Science
 Proposed solution to the Numerical Methods for Computer Science exam @ Università degli Studi Aldo Moro
